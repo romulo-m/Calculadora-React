@@ -1,13 +1,17 @@
-# Getting Started with Create React App
+# Projeto Calculadora React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Neste projeto foram construídos componentes e implementada a lógica tomando como base a aplicação da calculadora do MacOS.
 
-## Available Scripts
+## Baixando repositório
+Para baixar o projeto na sua máquina você pode executar o comando:  
+`git clone https://github.com/romulo-m/Calculadora-React.git`
 
-In the project directory, you can run:
+## Baixando bibliotecas
+Executar o comando: `npm install`
+## Iniciando a Aplicação
 
-### `npm start`
+Executar o comando: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador.
 

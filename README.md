@@ -1,5 +1,7 @@
 # Projeto Calculadora React
 
+![calc-react (2)](https://user-images.githubusercontent.com/86934122/187046463-8d4e015d-108e-46f5-9b48-893c004385e3.png)
+
 Neste projeto foram construídos componentes e implementada a lógica tomando como base a aplicação da calculadora do MacOS.
 
 ## Baixando repositório
@@ -16,4 +18,4 @@ Executar o comando: `npm start`
 
 Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador.
 
-![calc-react (2)](https://user-images.githubusercontent.com/86934122/187046463-8d4e015d-108e-46f5-9b48-893c004385e3.png)
+

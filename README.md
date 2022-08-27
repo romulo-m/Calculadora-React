@@ -8,10 +8,12 @@ Para baixar o projeto na sua máquina você pode executar o comando:
 
 ## Baixando bibliotecas
 Executar o comando: `npm install`
-## Iniciando a Aplicação
+<br>
 
+## Iniciando a Aplicação
 Executar o comando: `npm start`
 
 
 Abra [http://localhost:3000](http://localhost:3000) para ver no seu navegador.
 
+![calc-react (2)](https://user-images.githubusercontent.com/86934122/187046463-8d4e015d-108e-46f5-9b48-893c004385e3.png)
